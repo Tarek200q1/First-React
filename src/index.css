@@ -1,0 +1,27 @@
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: white;
+  background-color: rgb(26, 188, 156);
+  border-radius: 40px;
+  transition: 0.8s;
+  font-size: 16px;
+}
+.bg-dark {
+  background-color: rgb(44, 62, 80) !important;
+}
+.bbgge {
+  background-color: rgb(44, 62, 80) !important;
+}
+.about {
+  background-color: rgb(26, 188, 156) !important;
+  padding: 100px;
+}
+.lop {
+  padding-top: 20px;
+}
+.too {
+  padding-top: 120px !important;
+}
+.home {
+  background-color: rgb(26, 188, 156) !important;
+}
